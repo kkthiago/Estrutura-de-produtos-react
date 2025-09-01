@@ -49,9 +49,7 @@ const BotaoComprar = styled.button`
   color: #ffffffff;
   cursor: pointer;
   transition: background-color 0.3s ease; /* Efeito suave de transição */
-
-  /* Lógica condicional para a cor de fundo */
-  background-color: ${(props) => (props.adicionado ? "#6c757d" : "#198754")};
+  background-color: ${(props) => (props.adicionado ? "#198754" : "#6c757d")};
 
   &:hover {
     opacity: 0.9;
