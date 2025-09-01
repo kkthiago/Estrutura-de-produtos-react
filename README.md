@@ -1,17 +1,14 @@
 # Vitrine de Produtos Interativa 🛍️✨
 
-\<p align="center"\>
-\<img src="[https://img.shields.io/badge/React-19.1-blue.svg?logo=react](https://www.google.com/url?sa=E&source=gmail&q=https://img.shields.io/badge/React-19.1-blue.svg?logo=react)" alt="React"\>
-\<img src="[https://img.shields.io/badge/Vite-7.1-purple.svg?logo=vite](https://www.google.com/url?sa=E&source=gmail&q=https://img.shields.io/badge/Vite-7.1-purple.svg?logo=vite)" alt="Vite"\>
-\<img src="[https://img.shields.io/badge/Emotion-11.14-pink.svg](https://www.google.com/url?sa=E&source=gmail&q=https://img.shields.io/badge/Emotion-11.14-pink.svg)" alt="Emotion"\>
-\<img src="[https://img.shields.io/badge/JavaScript-ES6%2B-yellow?logo=javascript](https://www.google.com/url?sa=E&source=gmail&q=https://img.shields.io/badge/JavaScript-ES6%2B-yellow?logo=javascript)" alt="JavaScript"\>
-\</p\>
-
-\<p align="center"\>
-\<img src="[https://img.shields.io/badge/version-0.1.0-blue](https://img.shields.io/badge/version-0.1.0-blue)" alt="Versão do Projeto"\>
-\<img src="[https://img.shields.io/badge/status-ativo-brightgreen](https://www.google.com/url?sa=E&source=gmail&q=https://img.shields.io/badge/status-ativo-brightgreen)" alt="Status do Projeto"\>
-\<img src="[https://img.shields.io/badge/Licença-MIT-green.svg](https://www.google.com/url?sa=E&source=gmail&q=https://img.shields.io/badge/Licença-MIT-green.svg)" alt="Licença"\>
-\</p\>
+<p align="center">
+  <img src="https://img.shields.io/badge/React-19.1-blue.svg?logo=react" alt="React">
+  <img src="https://img.shields.io/badge/Vite-7.1-purple.svg?logo=vite" alt="Vite">
+  <img src="https://img.shields.io/badge/Emotion-11.14-pink.svg" alt="Emotion">
+  <img src="https://img.shields.io/badge/JavaScript-ES6%2B-yellow?logo=javascript" alt="JavaScript">
+  <img src="https://img.shields.io/badge/version-0.1.0-blue" alt="Versão do Projeto">
+  <img src="https://img.shields.io/badge/status-ativo-brightgreen" alt="Status do Projeto">
+  <img src="https://img.shields.io/badge/Licença-MIT-green.svg" alt="Licença">
+</p>
 
 ---
 
